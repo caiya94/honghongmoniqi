@@ -77,7 +77,7 @@ export const StartScreen: React.FC = () => {
           </div>
 
           {/* 标题 */}
-          <h1 className="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-rose-500 to-pink-600 tracking-tight mb-2">
+          <h1 className="text-4xl font-black text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-violet-600 tracking-tight mb-2">
             哄哄模拟器
           </h1>
           <p className="text-base text-gray-500 font-medium">
